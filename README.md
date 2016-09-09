@@ -15,8 +15,9 @@
 
 ##使用方式
 
-* 预览地址1: [jekyll_demo](https://fandamei.github.io/jekyll_demo/)
-* 预览地址2：https://fandamei.github.io/jekyll_demo/
+* 预览地址 [jekyll_demo](https://fandamei.github.io/jekyll_demo/)
+* 预览地址：https://fandamei.github.io/jekyll_demo/
 ```
-$ git init
+参考链接
+$ http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html 
 ```
