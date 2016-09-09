@@ -1,14 +1,18 @@
-#github.io
+#个人博客demo
 
-预览地址：https://fandamei.github.io/jekyll_demo/
+基于github.io，搭建的个人博客
+优点：
+* 免费、无限流量
+* 享受git的版本管理功能，不用担心文章遗失
+* 只需要用自己喜欢的编辑器写文章就可以了。
+缺点：
+* 需要更新静态页面
+* 不适合大型网站。
 
-##副标题
+##使用方式
 
-tips:haha
-
-* 预览 [jekyll_demo](https://fandamei.github.io/jekyll_demo/)
-or
-* LI list
+* 预览地址1: [jekyll_demo](https://fandamei.github.io/jekyll_demo/)
+* 预览地址2：https://fandamei.github.io/jekyll_demo/
 ```
-$ bower install icono
+$ git init
 ```
