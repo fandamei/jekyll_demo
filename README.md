@@ -1,6 +1,6 @@
 #个人博客demo
 
-基于github.io，搭建的个人博客
+基于github.io，搭建的个人博客 https://fandamei.github.io/jekyll_demo/
 
 优点：
 
@@ -16,7 +16,7 @@
 ##使用方式
 
 * 预览地址 [jekyll_demo](https://fandamei.github.io/jekyll_demo/)
-* 预览地址：https://fandamei.github.io/jekyll_demo/
+* 预览地址 https://fandamei.github.io/jekyll_demo/
 ```
 参考链接
 $ http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html 
